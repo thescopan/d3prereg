@@ -1,5 +1,4 @@
 @import url(//fonts.googleapis.com/css?family=Raleway:600,700|Pacifico);
-@import url('font-awesome.min.css');
 @import url('animate.css');
 /* line 1, ../sass/_one-page-scroll.scss */
 body, html {
@@ -1012,7 +1011,7 @@ section {
 .sidebar li a {
   /*display: none;*/
   margin-bottom: 10px;
-  border: solid 2px white;
+  /*border: solid 2px white;*/
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
