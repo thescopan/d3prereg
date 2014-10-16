@@ -871,7 +871,7 @@ p span {
 
 /* line 3, ../sass/_no-js.sass */
 .no-js body {
-  overflow: scroll !important;
+  /*overflow: scroll !important;*/
 }
 /* line 6, ../sass/_no-js.sass */
 .no-js .slide {
@@ -1229,4 +1229,8 @@ section {
   -moz-animation-delay: 9500ms;
   /* Firefox */
   -webkit-animation-delay: 9500ms;
+}
+
+.btn-lg{
+  margin-top: 5px;
 }
